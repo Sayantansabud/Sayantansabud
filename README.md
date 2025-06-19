@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sayantan Sabud
 
-🎓 B.Tech CSE Student at KIIT | 💻 Frontend Developer | 📊 Data Analyst & Aspiring Data Scientist  
+🎓 B.Tech CSE Student at KIIT | 💻 Frontend Developer | 📊 Data Analyst & Aspiring Data Scientist | 🎨 Freelance Designer
 🚀 Passionate about transforming data into insights and crafting responsive, engaging user interfaces.
 
 ---
