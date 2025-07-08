@@ -26,8 +26,6 @@ From building AI-based health assistants to analyzing ride-sharing trends and en
 ---
 [![](https://visitcount.itsvg.in/api?id=Sayantansabud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
 
 ## 📌 Notable Projects
 
