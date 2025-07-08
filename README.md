@@ -3,7 +3,7 @@
 🎓 B.Tech CSE Student at KIIT | 💻 Frontend Developer | 📊 Data Analyst & Aspiring Data Scientist | 🎨 Freelance Designer
 🚀 Passionate about transforming data into insights and crafting responsive, engaging user interfaces.
 
----
+
 
 ## 🧠 About Me
 
@@ -11,7 +11,7 @@ I'm currently pursuing my B.Tech in Computer Science Engineering at KIIT, Bhuban
 I specialize in **frontend development** and **data analysis**, blending creative UI design with strong analytical thinking.  
 From building AI-based health assistants to analyzing ride-sharing trends and environmental impacts, I'm always looking to solve **real-world problems** with thoughtful solutions.
 
----
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sayantansabud) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sayantansabud) 
@@ -23,7 +23,7 @@ From building AI-based health assistants to analyzing ride-sharing trends and en
 ![](https://nirzak-streak-stats.vercel.app/?user=Sayantansabud&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantansabud&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Sayantansabud&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
@@ -36,7 +36,7 @@ From building AI-based health assistants to analyzing ride-sharing trends and en
 - Enhanced document retrieval over 5000+ medical texts using HuggingFace embeddings.
 - Designed and deployed a responsive web interface with Flask.
 
----
+
 
 ### 🧠 [Diagnosify – Disease Prediction Web App](https://github.com/Sayantansabud/Diagnosify-Disease-Prediction-Model)
 > **Flask | Scikit-learn | Pandas | HTML/CSS**
@@ -45,7 +45,6 @@ From building AI-based health assistants to analyzing ride-sharing trends and en
 - Designed an intuitive frontend using HTML/CSS and Flask.
 - Delivered output with precautions, medication info, and wellness suggestions.
 
----
 
 ### 📊 [Rapido Ride Analytics Dashboard](https://github.com/Sayantansabud/Rapido-Dashboard)
 > **SQL | Power BI | DAX**
@@ -82,9 +81,4 @@ From building AI-based health assistants to analyzing ride-sharing trends and en
 ## 🔗 Connect With Me
 
 - 📧 Email: [sayantansabud5254@gmail.com](mailto:sayantansabud5254@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sayantansabud)  
-- 💻 [GitHub](https://github.com/Sayantansabud)
 
----
-
-> ✨ "Designing for users, analyzing for impact, and coding for change."
