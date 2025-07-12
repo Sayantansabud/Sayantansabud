@@ -52,7 +52,7 @@ From building AI-based health assistants to analyzing ride-sharing trends and en
 - Analyzed 100K+ ride records to identify booking patterns and cancellation causes.
 - Built visual dashboards showing ride distance, user ratings, and payment methods.
 
----
+
 
 ### 🌱 [Carbon Emission from Social Media Usage]
 > **Excel | Primary Survey Analysis**
